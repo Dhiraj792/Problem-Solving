@@ -10,7 +10,6 @@ Explanation: After reversing, the elements of stack are in opposite order.
 Input: st[] = [3, 2, 1]
 Output: [3, 2, 1]
 Explanation: After reversing, the elements of stack are in opposite order.
-
 */
 
 
