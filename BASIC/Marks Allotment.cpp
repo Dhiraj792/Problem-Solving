@@ -1,6 +1,5 @@
 /*
 Given a integer a. Check if value of a lies between 0 to 100, as a is the marks alloted to a particular student in a subject and if that is then return the same value of a to marks() function. If not then code should throw an exception and return -1 for such cases. Use exception handling to take care of undefined behaviour.
-
 Examples :
 
 Input: a = 5
