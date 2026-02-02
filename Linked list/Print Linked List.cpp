@@ -19,7 +19,6 @@ class Node {
         data = 0;
         next = NULL;
     }
-
     // Parameterised Constructor
     Node(int data) {
         this->data = data;
