@@ -3,8 +3,7 @@ You are given the head of a Singly Linked List and a value x, insert that value 
 
 Examples :2 -> 10
 
-Input: x = 1,
-    
+Input: x = 1, 
 Output: 1 -> 2 -> 10
 Explanation: We can see that 1 is inserted at the beginning of the linked list.
 */
