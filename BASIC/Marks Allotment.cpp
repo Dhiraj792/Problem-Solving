@@ -9,7 +9,6 @@ Output: -1
 Constraints:
 -103 ≤ a ≤ 103
 */
-
 class Solution {
   public:
     int marks(int a) {
