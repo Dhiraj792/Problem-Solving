@@ -24,7 +24,6 @@ class Solution {
     else {
         mid = (len + 1) / 2;
     }
-
     currNode = head;
     while (mid > 1) {
         currNode = currNode->next;
