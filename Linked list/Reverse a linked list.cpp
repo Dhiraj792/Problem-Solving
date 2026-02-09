@@ -1,8 +1,7 @@
 /*
 You are given the head of a singly linked list. You have to reverse the linked list and return the head of the reversed list.
 
-Examples:
-
+Examples
 Input:1 -> 2 -> 3 -> 4
       
 Output: 4 -> 3 -> 2 -> 1
