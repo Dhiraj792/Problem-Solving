@@ -3,7 +3,6 @@ Input: x = 6,
 Orignal: 1 -> 2 -> 3 -> 4 -> 5
 Output: 1 -> 2 -> 3 -> 4 -> 5 -> 6
 Explanation: We can see that 6 is inserted at the end of the linkedlist.
-   
 */
 /*
 class Node {
