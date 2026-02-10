@@ -12,6 +12,5 @@ public:
         for(int i=k;i<size;i++){
             nums[i]=0;
         }
-        
     }
 };
