@@ -12,3 +12,20 @@ Explanation: Out of (2, 2, 5) 5 is the greatest.
 Constraints:
 1 <= a, b, c <= 103
 */
+#include <iostream>
+using namespace std;
+
+int main() {
+    // code here
+    int a,b,c;
+    cin>>a>>b>>c;
+    if(a>b&a>c){
+        cout<<a;
+    }
+    else if(b>c){
+        cout<<b;
+    }
+    else 
+    cout<<c;
+    return 0;
+}
