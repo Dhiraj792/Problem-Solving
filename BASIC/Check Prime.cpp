@@ -15,3 +15,24 @@ Explanation: 56 is divisible by 2, 4, 7.....etc. So its not a prime number.
 Contraints:
 1 <= n <= 104
 */
+#include <iostream>
+using namespace std;
+void primeornot(int n){
+     for(int i=2;i<=sqrt(n);i++){
+        if(n%i==0){
+            cout<<"False";
+            return;
+        }
+     
+    }
+      cout<<"True";
+}
+int main() {
+    // code here
+   int n;
+   cin>>n;
+   primeornot(n);
+
+    return 0;
+}
+
