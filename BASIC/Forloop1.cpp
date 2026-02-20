@@ -9,7 +9,6 @@ Note: ^ is for xor.
 Then print d e f g space seperately. Move the cursor to the next line after printing.
 
 Examples:
-
 Input: a = 1, b = 2, c = 3
 Output: 0 -2 0 3
 Explanation: We print d e f g after performing the given operations.
