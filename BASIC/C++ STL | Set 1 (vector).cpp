@@ -1,7 +1,6 @@
 /*
 Implement different operations on a vector A .
  
-
 Input:
 The first line of input contains an integer T denoting the no of test cases . Then T test cases follow. The first line of input contains an integer Q denoting the no of queries . Then in the next line are Q space separated queries .
 A query can be of five types 
