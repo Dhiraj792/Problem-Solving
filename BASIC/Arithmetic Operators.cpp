@@ -7,7 +7,6 @@ r = x * y :Multiplication
 s = x / y : Division
 t = x % y : Modulo
 Example :
-
 Input: x = 1, y = 2
 Output: 3 -1 2 0 1 
 Explanation: The given operations are performed.
