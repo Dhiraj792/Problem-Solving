@@ -6,7 +6,6 @@ Examples:
 Input: a= 3, b= 4.2, c= 23
 Output: 30.2
 Explanation: a + b + c = 30.2
-
 */
 #include <iostream>
 using namespace std;
