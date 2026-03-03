@@ -6,7 +6,6 @@
 5. e = ~ e
 Note: ^ is for xor.
 Then print d e f g space seperately. Move the cursor to the next line after printing.
-
 Examples:
 
 Input: a = 1, b = 2, c = 3
