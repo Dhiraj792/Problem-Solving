@@ -5,9 +5,7 @@ The possible data types are:
 2. Float
 3. Double
 4. Character
-
 Example 1:
-
 Input:
 S=a
 output:
@@ -16,7 +14,6 @@ Explanation:
 The string clearly represents char 
 and thus the size of char is displayed.
 Example 2:
-
 Input
 S=98.45685456
 Output: 
