@@ -11,7 +11,6 @@ A query can be of five types
 5. e (prints space separated values of the vector)
 5. f  (Sorts the vector A in descending order)
 
-
 Output:
 The output for each test case will  be space separated integers denoting the results of each query . 
 
