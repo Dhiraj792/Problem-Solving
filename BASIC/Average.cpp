@@ -15,7 +15,6 @@ Explanation: The positive numbers are 1 2 3.
 The sum is 1+2+3 = 6, Average = 6/3 = 2
 */
 // User function Template for C++
-
 int posAverage(int arr[], int size) {
 
     // Write your code to find average of positive numbers in arr array
