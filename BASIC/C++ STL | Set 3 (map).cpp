@@ -14,7 +14,6 @@ The output for each test case will  be space separated integers denoting the res
 Constraints:
 1<=T<=100
 1<=Q<=100
-
 Example:
 
 Input
