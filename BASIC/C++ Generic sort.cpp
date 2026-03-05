@@ -23,7 +23,6 @@ Constraints:
 1 <= String.size() <= 100
 String consists of only lowercase English alphabets
 */
-
 template <class T>
 void sortArray(T a[], int n) {
     sort(a,a+n);
