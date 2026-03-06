@@ -1,8 +1,6 @@
 /*
 Given an integer N. Write a program to print all the divisors of N in a single line.
-
 Examples:
-
 Input: N = 12
 Output: 1 2 3 4 6 12
 Explanation: 12 is divisible by 1 2 3 4 6 12.
