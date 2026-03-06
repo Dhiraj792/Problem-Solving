@@ -5,7 +5,6 @@ A prime number is a number that is divisible by 1 and itself only.
 Note: Print "True" if n is prime, otherwise print "False".
 
 Examples:
-
 Input: n = 17
 Output: True 
 Explanation: 17 is  divisible by only 1 and 17. So it's a prime number.
