@@ -8,7 +8,6 @@ Example:
 Input: None
 Output: "Hello World"
 */
-
 class MyClass{
     public:
     void display(){
