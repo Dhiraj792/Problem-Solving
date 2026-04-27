@@ -3,9 +3,6 @@ You are given the head of a singly linked list. Return an array containing the v
 
 Examples:
 
-Input:
-    
-Output: [1, 2, 3, 4, 5]
 Explanation: The linked list contains 5 elements [1, 2, 3, 4, 5]. The elements are printed in a single line.
 */
 /*
