@@ -17,6 +17,5 @@ public:
         }
         reverse(ans.begin(),ans.end());
         return ans;
-
     }
 };
