@@ -19,6 +19,6 @@ public:
             prev = curr;                     
             curr = nextNode;              
         }
-        return prev;
+         return prev;
     }
 };
