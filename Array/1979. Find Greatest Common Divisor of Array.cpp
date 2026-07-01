@@ -1,6 +1,5 @@
 /*
 Example 1:
-
 Input: nums = [2,5,6,9,10]
 Output: 2
 Explanation:
