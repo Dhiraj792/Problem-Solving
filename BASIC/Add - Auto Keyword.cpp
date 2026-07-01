@@ -1,6 +1,5 @@
 /*
 You are given one integer a, float b and  long c variable. You need to add all these variables and store them into auto variable ans.
-
 Examples:
 
 Input: a= 3, b= 4.2, c= 23
