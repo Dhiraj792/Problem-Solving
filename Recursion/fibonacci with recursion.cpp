@@ -9,7 +9,6 @@ int fun(int n){
     }
     return fun(n-1)+fun(n-2);
 }
-
 int main()
 {
     int n=6;
