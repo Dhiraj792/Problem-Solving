@@ -7,9 +7,6 @@ Queries are interpreted as follows:
     4 8 7
     6 9 1
 
-
-Sample Input
-
 STDIN       Function
 -----       --------
 5 3         arr[] size n = 5, queries[] size q = 3
