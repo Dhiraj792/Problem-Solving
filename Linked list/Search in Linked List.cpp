@@ -1,6 +1,5 @@
 /*
 Given a linked list with the head node and a key, the task is to check if the key is present in the linked list or not. Return true if key is present, else return false.
-
 Example:
 
 Input: key = 3,
