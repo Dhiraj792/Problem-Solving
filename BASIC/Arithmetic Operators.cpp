@@ -1,6 +1,5 @@
 /*
 You are given two integer variables x and y. You need to perform the following operations:
-
 p = x + y : Addition
 q = x - y : Subtraction
 r = x * y :Multiplication
