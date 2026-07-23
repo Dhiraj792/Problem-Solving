@@ -1,8 +1,6 @@
 /*
 Rahul loves to play with numbers, he challenges his friend Ankush with a problem related to numbers in which he has to first reverse the order of two digits and then swap them. Let us take the two digits as a and b.
-
 Examples :
-
 Input: a = 1234, b = 67890
 Output: 9876 4321
 Explanation: Reversing the given two numbers will give: 4321 and 9876. After swapping it would come as: 9876 and 4321.
