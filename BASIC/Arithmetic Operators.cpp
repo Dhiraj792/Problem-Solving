@@ -12,7 +12,6 @@ Explanation: The given operations are performed.
 Input: x = 3, y = 4 
 Output: 7 -1 12 0 3 
 Explanation: The given operations are performed
-
 */
 // User function Template for C++
 
