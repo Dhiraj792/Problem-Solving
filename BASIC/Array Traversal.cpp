@@ -3,7 +3,6 @@ You are given an array arr[] that contains integers. You need to print the eleme
 Note: Don't add a new line at the end.
 
 Examples:
-
 Input: arr[] = [54, 43, 2, 1, 5]
 Output: 54 43 2 1 5
 Explanation: Just traverse and print the numbers.
