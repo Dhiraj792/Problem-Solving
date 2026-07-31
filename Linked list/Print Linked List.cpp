@@ -10,7 +10,6 @@ class Node {
   public:
     int data;
     Node* next;
-
     // Default constructor
     Node() {
         data = 0;
