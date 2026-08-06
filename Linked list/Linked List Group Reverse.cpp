@@ -6,7 +6,6 @@ Examples:
 
 Input: k = 2,
    1 -> 2 -> 3 -> 4 -> 5 -> 6
-
 Output: 2 -> 1 -> 4 -> 3 -> 6 -> 5
 Explanation: Linked List is reversed in a group of size k = 2.
 
