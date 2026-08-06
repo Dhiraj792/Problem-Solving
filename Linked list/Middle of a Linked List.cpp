@@ -6,7 +6,7 @@ If the number of nodes is even, there are two middle nodes, so return the second
 class Solution {
   public:
     int getMiddle(Node* head) {
-        // code here
+      
         Node *ptr=head;
         int count=0;
         while(ptr){
