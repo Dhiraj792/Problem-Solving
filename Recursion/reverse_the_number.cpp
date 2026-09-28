@@ -6,7 +6,6 @@ int reverse(int n,int r=0){
     }
    return reverse(n/10,r*10+n%10);
 }
-
 int main()
 {
     int n;
