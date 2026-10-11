@@ -9,7 +9,6 @@ void print(int n){
         cout<<n<<" ";
     }
 }
-
 int main()
 {
     int n=5;
