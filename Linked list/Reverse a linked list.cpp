@@ -18,7 +18,6 @@ class Node {
     }
 };
 */
-
 class Solution {
   public:
     Node* reverseList(Node* head) {
